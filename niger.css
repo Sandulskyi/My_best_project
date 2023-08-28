@@ -1,0 +1,32 @@
+body{
+    background: url(https://gamelevate.com/wp-content/uploads/2023/08/ishowspeed-flashed.jpg);
+    background-size:cover;
+}
+.button {
+    
+}
+.button_btn {
+    background-color: rgb(75, 44, 5);
+    color: rgb(0, 0, 0);
+    width: 200px;
+    height: 155px;
+    text-align: center;
+    border-radius: 15px;
+    transition: 0.4s;
+    margin: 0 auto;
+}
+.btn_text {
+    line-height: 40px;
+    font-family: 'Anton', sans-serif;
+    font-size: 22px;
+}
+a{
+    text-decoration: none;
+}
+.text{
+    font-size: 100px;
+    color: rgb(0, 0, 0);
+    mix-blend-mode: overlay;
+    text-align: center;
+    margin-top: 400px;
+}

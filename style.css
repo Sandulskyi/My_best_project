@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(96, 6, 148)
+}
+.button { 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn_text{
+    line-height: 40px;
+    font-family: 'Anton', sans-serif;
+    font-size: 22px;
+    
+}
+a{
+    text-decoration: none;
+    background-color: rgb(6, 180, 6);
+    color: azure;
+    width: 170px;
+    height: 150px;
+    text-align: center;
+    border-radius: 15px;
+    margin-top: 400px;
+    transition: 0.4s;
+}
+a:hover{
+    background-color: aquamarine;
+    transform:scale(1.1);
+}
